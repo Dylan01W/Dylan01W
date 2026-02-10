@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey there, I'm Dylan 👋
 
-<!--
-**Dylan01W/Dylan01W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓I'm a computing graduate based in London, who enjoys building things and learning by doing.
 
-Here are some ideas to get you started:
+🧪I'm currently working on my personal site.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠I'm currently learning more about frontend technologies, database management and AWS. But I also have strong interest how  ML and AI systems can be leveraged in applications.
+
+🔎I'm currently looking for graduate Technology schemes
+
+## 3 Things I love:
+
+🎼Theatrical music! Ranging from soundtracks from movies, TV shows and games I’ve played, to classical compositions in general.
+⌨️Building cool mechanical keyboards.
+🌍Travelling and experiencing different cultures.
