@@ -8,10 +8,6 @@
 
 🔎I'm currently looking for graduate Technology schemes
 
-#### 3 Interests I have:
+####🦹‍♂️Fun facts:
 
-🎼Theatrical music! Ranging from soundtracks from movies, TV shows and games I’ve played, to classical compositions in general.
-
-⌨️Building cool mechanical keyboards.
-
-🌍Travelling and experiencing different cultures.
+I like theatrical music,travelling and building keyboards.
