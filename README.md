@@ -8,6 +8,6 @@
 
 🔎I'm currently looking for graduate Technology schemes
 
-####🦹‍♂️Fun facts:
+#### 🦹‍♂️Fun facts:
 
 I like theatrical music,travelling and building keyboards.
