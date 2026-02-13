@@ -10,4 +10,4 @@
 
 #### 🦹‍♂️Fun facts:
 
-I like theatrical music,travelling and building keyboards.
+I like theatrical music, travelling and building keyboards.
