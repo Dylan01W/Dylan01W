@@ -1,4 +1,4 @@
-## Hey there, I'm Dylan 👋
+## Hey there, I'm Dylan <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
 
 🎓I'm a computing graduate based in London, who enjoys building things and learning by doing.
 
